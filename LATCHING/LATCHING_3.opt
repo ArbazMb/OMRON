@@ -178,16 +178,16 @@ ProjectTree:=
 BEGIN
  Item[0]:=0;
  Item[1]:=2;
- Item[2]:=12;
- Item[3]:=13;
+ Item[2]:=13;
+ Item[3]:=14;
  ItemCount:=4;
  Sumcheck:=43;
- Selected:=17;
+ Selected:=18;
 END;
 Frame[0]:=
 BEGIN
  Max:=true;
- Norm:="0000 0000 0900 0386";
+ Norm:="0156 0156 1056 0542";
  Min:="-001 -001";
  Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.NewProgram1.Sections.Section1!Section1";
  Type:=1;
